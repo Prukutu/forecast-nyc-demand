@@ -3,6 +3,13 @@ import matplotlib.pyplot as plt
 from fbprophet import Prophet
 import numpy as np
 
+""" Class defining methods for forcasting city-scale bulk energy demand. 
+    Designed to use NYISO actual loads as input, and using FB's 
+    Prophet tools to build the forecaster. 
+"""
+
+
+# TODO: Add potential exogenous variables (temperature, humidity?
 # TODO: Write a test for the forecast method, data visualization, etc
 # NOTE: Work in progress, NOT FULLY OPERATIONAL YET! 
 
