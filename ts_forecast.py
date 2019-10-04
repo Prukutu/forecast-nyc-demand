@@ -4,6 +4,7 @@ from fbprophet import Prophet
 import numpy as np
 
 # TODO: Write a test for the forecast method, data visualization, etc
+# NOTE: Work in progress, NOT FULLY OPERATIONAL YET! 
 
 class DemandForecaster:
     """ A simple tool to load, clean, and forecast timeseries datasets.
