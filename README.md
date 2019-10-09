@@ -1,2 +1,2 @@
 # forecast-nyc-demand
-Predicting NYC electric load using timeseries forecasting techniques
+Predicting NYC citywide electric load using timeseries forecasting techniques.
